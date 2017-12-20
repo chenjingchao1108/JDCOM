@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    android:orientation="horizontal">
+    <LinearLayout
+    android:id="@+id/saosao"
+        android:padding="5dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8sp"
+        android:layout_weight="1.2"
+        >
+<ImageView
+    android:src="@mipmap/atl"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+    <TextView
+        android:text="扫啊扫"
+        android:textColor="@color/hei"
+        android:textSize="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+     <EditText
+        android:id="@+id/shouyess"
+        android:layout_margin="7dp"
+        android:background="@drawable/sousuo"
+        android:layout_width="0dp"
+         android:focusable="false"
+         android:layout_weight="8"
+        android:layout_height="40dp" />
+    <ImageView
+        android:src="@mipmap/hb"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+    <ImageView
+        android:layout_marginLeft="10dp"
+        android:src="@mipmap/xx"
+        android:layout_marginTop="10dp"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_weight="1"/>
+</LinearLayout>

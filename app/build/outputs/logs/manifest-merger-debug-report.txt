@@ -1,0 +1,377 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.hjm:BottomTabBar:1.1.1] G:\Android_studio\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\f4ed195b145246b7d880c79065546f4a\AndroidManifest.xml:2:1-17:12
+MERGED from [com.jakewharton:butterknife:8.8.1] G:\Android_studio\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\64cf2508dc87c4daf51931c22e71928a\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\fresco-1.5.0.aar\1f6acd18aab8c848904b7fd074c3b54d\AndroidManifest.xml:2:1-9:12
+MERGED from [:okhttputil] G:\AndroidDemo\JDCOM\okhttputil\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [com.youth.banner:banner:1.4.9] G:\Android_studio\caches\transforms-1\files-1.1\banner-1.4.9.aar\5222a33646e221dac376563e1cb28483\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] G:\Android_studio\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\5a421122ce634145973bb7fd62555e14\AndroidManifest.xml:15:1-21:12
+MERGED from [com.orhanobut:logger:1.15] G:\Android_studio\caches\transforms-1\files-1.1\logger-1.15.aar\1f5ceabeef485fc16c43d01d2603c7bf\AndroidManifest.xml:2:1-8:12
+MERGED from [org.xutils:xutils:3.5.0] G:\Android_studio\caches\transforms-1\files-1.1\xutils-3.5.0.aar\45d807f09e162de9651ca94f58b7c4a4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] G:\Android_studio\caches\transforms-1\files-1.1\crashreport-2.6.6.1.aar\3710e6fdeff8e87a82c8f25235e31f24\AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] G:\Android_studio\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e7b926be69a6a9f1ddb52585e651c5b1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.xhb:xbanner:1.3.0] G:\Android_studio\caches\transforms-1\files-1.1\xbanner-1.3.0.aar\f15548d6e4bf86d474b78907f9e0f0ff\AndroidManifest.xml:2:1-15:12
+MERGED from [com.bartoszlipinski:recyclerviewheader:1.2.1] G:\Android_studio\caches\transforms-1\files-1.1\recyclerviewheader-1.2.1.aar\ebcc608e964b2a7a4440d0fc81e1a9a1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] G:\Android_studio\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fe2876b817fc44e9d17c461fb07e623\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:drawee:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\drawee-1.5.0.aar\dcf195cb6fa8cc2acac3654ef470d3fe\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\e0834e78353a2e9404606f93bc117565\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\9a2a4547e0cd95edf88680fcd27a6583\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\b548259bfaf8c2b42008ccc86b9be43e\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:17:1-30:12
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_LOGS
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.FLASHLIGHT
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.CAMERA
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:8:22-62
+uses-feature#android.hardware.camera
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:11:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:15:5-89
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:15:22-86
+uses-permission#android.permission.READ_CONTACTS
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:16:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:22:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:25:22-76
+application
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:26:5-70:19
+MERGED from [com.hjm:BottomTabBar:1.1.1] G:\Android_studio\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\f4ed195b145246b7d880c79065546f4a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.hjm:BottomTabBar:1.1.1] G:\Android_studio\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\f4ed195b145246b7d880c79065546f4a\AndroidManifest.xml:11:5-15:19
+MERGED from [:okhttputil] G:\AndroidDemo\JDCOM\okhttputil\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:okhttputil] G:\AndroidDemo\JDCOM\okhttputil\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [org.xutils:xutils:3.5.0] G:\Android_studio\caches\transforms-1\files-1.1\xutils-3.5.0.aar\45d807f09e162de9651ca94f58b7c4a4\AndroidManifest.xml:12:5-20
+MERGED from [org.xutils:xutils:3.5.0] G:\Android_studio\caches\transforms-1\files-1.1\xutils-3.5.0.aar\45d807f09e162de9651ca94f58b7c4a4\AndroidManifest.xml:12:5-20
+MERGED from [com.xhb:xbanner:1.3.0] G:\Android_studio\caches\transforms-1\files-1.1\xbanner-1.3.0.aar\f15548d6e4bf86d474b78907f9e0f0ff\AndroidManifest.xml:9:5-13:19
+MERGED from [com.xhb:xbanner:1.3.0] G:\Android_studio\caches\transforms-1\files-1.1\xbanner-1.3.0.aar\f15548d6e4bf86d474b78907f9e0f0ff\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] G:\Android_studio\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fe2876b817fc44e9d17c461fb07e623\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] G:\Android_studio\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fe2876b817fc44e9d17c461fb07e623\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:30:9-41
+	android:roundIcon
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:31:9-54
+	android:icon
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:27:9-32
+activity#text.bwie.mrc.jdcom.ViewActivity.AppStart
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:34:9-40:20
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:34:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:38:27-74
+activity#text.bwie.mrc.jdcom.MainActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:41:19-47
+activity#text.bwie.mrc.jdcom.ViewActivity.LoginActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:42:9-64
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:42:19-61
+activity#text.bwie.mrc.jdcom.ViewActivity.RegisterActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:43:9-67
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:43:19-64
+activity#text.bwie.mrc.jdcom.ViewActivity.GoodInfoActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:44:9-66
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:44:19-64
+activity#text.bwie.mrc.jdcom.ViewActivity.SousuoActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:45:9-64
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:45:19-62
+activity#text.bwie.mrc.jdcom.ViewActivity.InputSeekActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:46:9-67
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:46:19-65
+activity#text.bwie.mrc.jdcom.ViewActivity.GoodsDetail
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:47:9-61
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:47:19-59
+activity#com.umeng.qq.tencent.AuthActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:48:9-60:20
+	android:launchMode
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:50:13-44
+	android:noHistory
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:49:13-61
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:52:13-59:29
+action#android.intent.action.VIEW
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.DEFAULT
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:55:27-73
+category#android.intent.category.BROWSABLE
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:56:17-78
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:56:27-75
+data
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:58:17-59
+	android:scheme
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:58:23-56
+activity#com.umeng.qq.tencent.AssistActivity
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:61:9-65:75
+	android:screenOrientation
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:64:13-49
+	android:configChanges
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:63:13-74
+	android:theme
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:65:13-72
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:62:13-63
+meta-data#JDCOM
+ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:66:9-68:56
+	android:value
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:68:13-53
+	android:name
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml:67:13-33
+uses-sdk
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+MERGED from [com.hjm:BottomTabBar:1.1.1] G:\Android_studio\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\f4ed195b145246b7d880c79065546f4a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hjm:BottomTabBar:1.1.1] G:\Android_studio\caches\transforms-1\files-1.1\BottomTabBar-1.1.1.aar\f4ed195b145246b7d880c79065546f4a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.8.1] G:\Android_studio\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\64cf2508dc87c4daf51931c22e71928a\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] G:\Android_studio\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\64cf2508dc87c4daf51931c22e71928a\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:fresco:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\fresco-1.5.0.aar\1f6acd18aab8c848904b7fd074c3b54d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\fresco-1.5.0.aar\1f6acd18aab8c848904b7fd074c3b54d\AndroidManifest.xml:5:5-7:41
+MERGED from [:okhttputil] G:\AndroidDemo\JDCOM\okhttputil\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:okhttputil] G:\AndroidDemo\JDCOM\okhttputil\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] G:\Android_studio\caches\transforms-1\files-1.1\banner-1.4.9.aar\5222a33646e221dac376563e1cb28483\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.9] G:\Android_studio\caches\transforms-1\files-1.1\banner-1.4.9.aar\5222a33646e221dac376563e1cb28483\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] G:\Android_studio\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\5a421122ce634145973bb7fd62555e14\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] G:\Android_studio\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\5a421122ce634145973bb7fd62555e14\AndroidManifest.xml:19:5-43
+MERGED from [com.orhanobut:logger:1.15] G:\Android_studio\caches\transforms-1\files-1.1\logger-1.15.aar\1f5ceabeef485fc16c43d01d2603c7bf\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:1.15] G:\Android_studio\caches\transforms-1\files-1.1\logger-1.15.aar\1f5ceabeef485fc16c43d01d2603c7bf\AndroidManifest.xml:6:5-43
+MERGED from [org.xutils:xutils:3.5.0] G:\Android_studio\caches\transforms-1\files-1.1\xutils-3.5.0.aar\45d807f09e162de9651ca94f58b7c4a4\AndroidManifest.xml:8:5-10:41
+MERGED from [org.xutils:xutils:3.5.0] G:\Android_studio\caches\transforms-1\files-1.1\xutils-3.5.0.aar\45d807f09e162de9651ca94f58b7c4a4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] G:\Android_studio\caches\transforms-1\files-1.1\crashreport-2.6.6.1.aar\3710e6fdeff8e87a82c8f25235e31f24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6.1] G:\Android_studio\caches\transforms-1\files-1.1\crashreport-2.6.6.1.aar\3710e6fdeff8e87a82c8f25235e31f24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] G:\Android_studio\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e7b926be69a6a9f1ddb52585e651c5b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.1] G:\Android_studio\caches\transforms-1\files-1.1\nativecrashreport-3.3.1.aar\e7b926be69a6a9f1ddb52585e651c5b1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.xhb:xbanner:1.3.0] G:\Android_studio\caches\transforms-1\files-1.1\xbanner-1.3.0.aar\f15548d6e4bf86d474b78907f9e0f0ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.xhb:xbanner:1.3.0] G:\Android_studio\caches\transforms-1\files-1.1\xbanner-1.3.0.aar\f15548d6e4bf86d474b78907f9e0f0ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.bartoszlipinski:recyclerviewheader:1.2.1] G:\Android_studio\caches\transforms-1\files-1.1\recyclerviewheader-1.2.1.aar\ebcc608e964b2a7a4440d0fc81e1a9a1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bartoszlipinski:recyclerviewheader:1.2.1] G:\Android_studio\caches\transforms-1\files-1.1\recyclerviewheader-1.2.1.aar\ebcc608e964b2a7a4440d0fc81e1a9a1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] G:\Android_studio\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fe2876b817fc44e9d17c461fb07e623\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] G:\Android_studio\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fe2876b817fc44e9d17c461fb07e623\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:drawee:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\drawee-1.5.0.aar\dcf195cb6fa8cc2acac3654ef470d3fe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\drawee-1.5.0.aar\dcf195cb6fa8cc2acac3654ef470d3fe\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\e0834e78353a2e9404606f93bc117565\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\imagepipeline-1.5.0.aar\e0834e78353a2e9404606f93bc117565\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\9a2a4547e0cd95edf88680fcd27a6583\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\imagepipeline-base-1.5.0.aar\9a2a4547e0cd95edf88680fcd27a6583\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\b548259bfaf8c2b42008ccc86b9be43e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] G:\Android_studio\caches\transforms-1\files-1.1\fbcore-1.5.0.aar\b548259bfaf8c2b42008ccc86b9be43e\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidDemo\JDCOM\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\5f2a807f3069d9c072a57158ff902bd8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\2085475060f111883df6998d0ff86c0c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\transition-26.1.0.aar\3acb7b38c757c7735e7687598951f152\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\e4b6fc16a25f891bfad66b1f2082af31\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4e64a23863ecd589f151e1187e451c9a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1d21651535acad8f06baa711ad7e973c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\741836aa0ef818bf5d608013f39a82de\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\975496bb90f3d1c113f003136ffd1f12\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\119a1dd61cd1596702e4cd57d6ec53eb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\453121e21a7d404a81b71d135083243f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a3e745a4286ae374bc89fa14e91cd450\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] G:\Android_studio\caches\transforms-1\files-1.1\design-26.1.0.aar\61731c83d2256f14300817fef9ab8e93\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] G:\Android_studio\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a3ea3f981acd66914587234e8f999f5d\AndroidManifest.xml:26:13-58

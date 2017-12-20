@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f2f5"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/login_register_layout"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@mipmap/my_top">
+
+        <ImageView
+            android:id="@+id/hander"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="30dp"
+            android:src="@mipmap/b3h" />
+
+        <TextView
+            android:id="@+id/login_register_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@id/hander"
+            android:text="登录/注册 &gt;"
+            android:textColor="#ffffff" />
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="30dp"
+            android:src="@mipmap/a9w" />
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="30dp"
+            android:src="@mipmap/a9t" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:background="@mipmap/my_top_down" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="-5dp"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:id="@+id/denglu_top1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_03" />
+
+        <ImageView
+            android:id="@+id/denglu_top2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_05" />
+
+        <ImageView
+            android:id="@+id/denglu_top3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_07" />
+
+        <ImageView
+            android:id="@+id/denglu_top4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_09" />
+
+        <ImageView
+            android:id="@+id/denglu_top5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_11" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/denglu_top6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_top_18" />
+
+        <ImageView
+            android:id="@+id/denglu_top7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_19" />
+
+        <ImageView
+            android:id="@+id/denglu_top8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_20" />
+
+        <ImageView
+            android:id="@+id/denglu_top9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_21" />
+
+        <ImageView
+            android:id="@+id/denglu_top10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:src="@mipmap/gin_top_22" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#ffffff"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/denglu_top11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_03" />
+
+        <ImageView
+            android:id="@+id/denglu_top12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_05" />
+
+        <ImageView
+            android:id="@+id/denglu_top13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_07" />
+
+        <ImageView
+            android:id="@+id/denglu_top14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_09" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#ffffff"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/denglu_top15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_15" />
+
+        <ImageView
+            android:id="@+id/denglu_top16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_16" />
+
+        <ImageView
+            android:id="@+id/denglu_top17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_15" />
+
+        <ImageView
+            android:id="@+id/denglu_top18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/gin_botton_16" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="text.bwie.mrc.jdcom.test" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for text.bwie.mrc.jdcom"
+        android:targetPackage="text.bwie.mrc.jdcom" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

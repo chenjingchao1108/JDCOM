@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="text.bwie.mrc.jdcom"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name="text.bwie.mrc.jdcom.Api.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.AppStart" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="text.bwie.mrc.jdcom.MainActivity" />
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.LoginActivity" />
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.RegisterActivity" />
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.GoodInfoActivity" />
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.SousuoActivity" />
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.InputSeekActivity" />
+        <activity android:name="text.bwie.mrc.jdcom.ViewActivity.GoodsDetail" />
+        <activity
+            android:name="com.umeng.qq.tencent.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent100424468" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.umeng.qq.tencent.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="JDCOM"
+            android:value="5a33b8c5f43e481529000120" />
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>
